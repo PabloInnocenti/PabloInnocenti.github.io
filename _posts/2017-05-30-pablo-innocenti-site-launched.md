@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Pablo Innocenti, Launches Site"
+date: 2017-05-30
+---
+
+Well. Finally got around to putting this website.
+Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
+It actually is a lot easier than I thought it was going to be.
